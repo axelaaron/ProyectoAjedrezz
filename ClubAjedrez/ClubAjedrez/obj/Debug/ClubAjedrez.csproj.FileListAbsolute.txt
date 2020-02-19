@@ -1,0 +1,14 @@
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\ClubAjedrez.exe.config
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\ClubAjedrez.exe
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\ClubAjedrez.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\Entidades.dll
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\LogicaNegocio.dll
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\Entidades.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\bin\Debug\LogicaNegocio.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.csprojAssemblyReference.cache
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.Properties.Resources.resources
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.csproj.GenerateResource.cache
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.csproj.CopyComplete
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.exe
+C:\Users\zocre\Desktop\ClubAjedrez\ClubAjedrez\obj\Debug\ClubAjedrez.pdb

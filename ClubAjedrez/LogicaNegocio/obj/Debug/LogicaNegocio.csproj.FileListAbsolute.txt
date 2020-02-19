@@ -1,0 +1,11 @@
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\zocre\Desktop\ClubAjedrez\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
